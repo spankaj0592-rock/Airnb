@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Airnb/static/css/main.bac14feb.css",
+    "main.js": "/Airnb/static/js/main.770da18f.js",
+    "static/js/787.35526da5.chunk.js": "/Airnb/static/js/787.35526da5.chunk.js",
+    "static/media/slick.svg": "/Airnb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Airnb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Airnb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Airnb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Airnb/index.html",
+    "main.bac14feb.css.map": "/Airnb/static/css/main.bac14feb.css.map",
+    "main.770da18f.js.map": "/Airnb/static/js/main.770da18f.js.map",
+    "787.35526da5.chunk.js.map": "/Airnb/static/js/787.35526da5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac14feb.css",
+    "static/js/main.770da18f.js"
+  ]
+}
